@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mariano</h1>
-<h3 align="center">A passionate web developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
 - 🔭 I’m currently studying **information systems at the Universidad de Buenos Aires**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently working in information security at **Techint Group**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zurk1245?tab=repositories](https://github.com/Zurk1245)
+- 👨‍💻 All of my software development projects are available at [https://github.com/Zurk1245?tab=repositories](https://github.com/Zurk1245)
 
 - 📫 How to reach me: **mendez.mariano@outlook.com.ar**
 
